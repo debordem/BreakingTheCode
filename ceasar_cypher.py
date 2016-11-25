@@ -1,7 +1,7 @@
 #########
 #
 # Ceasar cypher
-# A change
+# A change again
 #######
 
 # encoding function
