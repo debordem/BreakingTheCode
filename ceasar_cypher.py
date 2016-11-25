@@ -1,7 +1,11 @@
 #########
 #
 # Ceasar cypher
+<<<<<<< HEAD
 # A change again
+=======
+# A change another change
+>>>>>>> origin/master
 #######
 
 # encoding function
